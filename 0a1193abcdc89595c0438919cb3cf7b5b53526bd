@@ -16,6 +16,24 @@
       "revId": "0a1193abcdc89595c0438919cb3cf7b5b53526bd",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_397c1872",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-04-14T22:26:55Z",
+      "side": 1,
+      "message": "That\u0027s what she said",
+      "parentUuid": "7af24918_d99ff4b2",
+      "revId": "0a1193abcdc89595c0438919cb3cf7b5b53526bd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
