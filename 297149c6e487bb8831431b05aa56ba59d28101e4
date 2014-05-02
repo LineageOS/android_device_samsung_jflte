@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_0230b155",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-05-02T02:58:46Z",
+      "side": 1,
+      "message": "Also wtf is this? Global mode is a CDMA thing. GSM devices do NOT have global. It may work, but its not really their network mode.",
+      "revId": "297149c6e487bb8831431b05aa56ba59d28101e4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
