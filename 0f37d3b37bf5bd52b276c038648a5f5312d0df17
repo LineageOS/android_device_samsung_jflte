@@ -16,6 +16,23 @@
       "revId": "0f37d3b37bf5bd52b276c038648a5f5312d0df17",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_021711a4",
+        "filename": "init/init_jflte.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 7874
+      },
+      "writtenOn": "2014-05-02T03:24:14Z",
+      "side": 1,
+      "message": "this line is also absent from stock",
+      "revId": "0f37d3b37bf5bd52b276c038648a5f5312d0df17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
