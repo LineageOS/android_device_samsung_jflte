@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7af24918_421119ac",
+        "filename": "init/init_jflte.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 145,
+      "author": {
+        "id": 2681
+      },
+      "writtenOn": "2014-05-02T03:30:08Z",
+      "side": 1,
+      "message": "Its part of our radio stuff.\nhttps://github.com/CyanogenMod/android_frameworks_base/commit/7cce58f1e4ca4ebf325130f138c0c132ceb738d6",
+      "parentUuid": "7af24918_e24945d2",
+      "revId": "0f37d3b37bf5bd52b276c038648a5f5312d0df17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7af24918_021711a4",
         "filename": "init/init_jflte.c",
         "patchSetId": 2
