@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "7af24918_c21d29bf",
+        "filename": "init/init_jflte.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 145,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-05-02T03:32:55Z",
+      "side": 1,
+      "message": "It\u0027s used in frameworks/base\nhttps://github.com/CyanogenMod/android_frameworks_base/blob/cm-11.0/telephony/java/com/android/internal/telephony/TelephonyProperties.java#L96",
+      "parentUuid": "7af24918_e24945d2",
+      "revId": "0f37d3b37bf5bd52b276c038648a5f5312d0df17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7af24918_021711a4",
         "filename": "init/init_jflte.c",
         "patchSetId": 2
@@ -48,6 +66,24 @@
       "writtenOn": "2014-05-02T03:24:14Z",
       "side": 1,
       "message": "this line is also absent from stock",
+      "revId": "0f37d3b37bf5bd52b276c038648a5f5312d0df17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_22796dfd",
+        "filename": "init/init_jflte.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-05-02T03:32:55Z",
+      "side": 1,
+      "message": "Try running without it, see how it goes.\n\nNETWORK_MODE_LTE_GSM_WCDMA  \u003d 9; /* LTE, GSM/WCDMA */",
+      "parentUuid": "7af24918_021711a4",
       "revId": "0f37d3b37bf5bd52b276c038648a5f5312d0df17",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
