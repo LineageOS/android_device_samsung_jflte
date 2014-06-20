@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_ceed5c27",
+        "filename": "releasetools/loki-recovery.sh",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 10
+      },
+      "writtenOn": "2014-06-20T00:46:16Z",
+      "side": 1,
+      "message": "Dump the recovery here",
+      "revId": "d43c79ad775f37a122c44fb9341f636344fd7f51",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_0ef8f4e4",
+        "filename": "releasetools/loki-recovery.sh",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 10
+      },
+      "writtenOn": "2014-06-20T00:46:16Z",
+      "side": 1,
+      "message": "Unlok the previous dump here",
+      "revId": "d43c79ad775f37a122c44fb9341f636344fd7f51",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_6edd3070",
+        "filename": "releasetools/loki-recovery.sh",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 10
+      },
+      "writtenOn": "2014-06-20T00:46:16Z",
+      "side": 1,
+      "message": "Get the result, whether you had to unlok it or not, into $C/recovery.img before you checksum it below ;)",
+      "revId": "d43c79ad775f37a122c44fb9341f636344fd7f51",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
