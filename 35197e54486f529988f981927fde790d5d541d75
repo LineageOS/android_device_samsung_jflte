@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_05f3bc0b",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 883
+      },
+      "writtenOn": "2014-08-17T14:43:03Z",
+      "side": 0,
+      "message": "keep the renderscript libs as is  they are taken from another source.",
+      "revId": "35197e54486f529988f981927fde790d5d541d75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
