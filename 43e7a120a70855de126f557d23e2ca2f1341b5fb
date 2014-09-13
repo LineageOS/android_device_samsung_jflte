@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_3c47c7bc",
+        "filename": "cm.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-13T11:10:06Z",
+      "side": 1,
+      "message": "cm.dependencies should be capable of recursively resolving dependencies, which means you can movie qcom-common and kernel_samsung_jf entries to jf-common as well.",
+      "revId": "43e7a120a70855de126f557d23e2ca2f1341b5fb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
