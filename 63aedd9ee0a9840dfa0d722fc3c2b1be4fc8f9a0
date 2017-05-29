@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa82b9bf_d36beb83",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-05-29T17:08:41Z",
+      "side": 1,
+      "message": "You want a empty line between 7 and 8 in order for the commit \u0027title\u0027 to show properly",
+      "revId": "63aedd9ee0a9840dfa0d722fc3c2b1be4fc8f9a0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
